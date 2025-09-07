@@ -78,7 +78,7 @@ enam-apmc-mandi-scraper/
 ## 📑 Output schema (CSV)
 - `state` · `district` · `mandi_name` · `address` · `contact_details`
 
-## 🔍 Make it attention‑grabbing on GitHub
+##  GitHub
 - Add **topics**: `apmc`, `india`, `enam`, `mandi`, `web-scraping`, `selenium`, `data-pipeline`, `open-data`
 - Pin the repo to your profile and add a clear **one‑line tagline**
 - Upload a **social preview image** (Settings → General → Social preview)
