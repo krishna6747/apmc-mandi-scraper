@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22194783/README.md)
 # eNAM APMC Mandi Scraper · End‑to‑End Pipeline
 
 > Extracts India APMC mandi contact details from the official eNAM portal with an automated, repeatable Selenium pipeline. Cleaned data lands as CSV — perfect for analysis and open-data projects.
@@ -78,7 +77,7 @@ enam-apmc-mandi-scraper/
 ## 📑 Output schema (CSV)
 - `state` · `district` · `mandi_name` · `address` · `contact_details`
 
-##  GitHub
+## 🔍 Make it attention‑grabbing on GitHub
 - Add **topics**: `apmc`, `india`, `enam`, `mandi`, `web-scraping`, `selenium`, `data-pipeline`, `open-data`
 - Pin the repo to your profile and add a clear **one‑line tagline**
 - Upload a **social preview image** (Settings → General → Social preview)
