@@ -77,12 +77,7 @@ enam-apmc-mandi-scraper/
 ## 📑 Output schema (CSV)
 - `state` · `district` · `mandi_name` · `address` · `contact_details`
 
-## 🔍 Make it attention‑grabbing on GitHub
-- Add **topics**: `apmc`, `india`, `enam`, `mandi`, `web-scraping`, `selenium`, `data-pipeline`, `open-data`
-- Pin the repo to your profile and add a clear **one‑line tagline**
-- Upload a **social preview image** (Settings → General → Social preview)
-- Open a few good **starter issues** (e.g., “Add Dockerfile”, “Publish dataset to release”)
-- Add a short **demo GIF** of the scraper running (optional)
+
 
 ## 🧪 CI (optional but recommended)
 This repo ships with a simple GitHub Actions workflow that runs lint checks and a **non-network** smoke test so your PRs stay green.
