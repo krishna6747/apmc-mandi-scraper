@@ -1,6 +1,6 @@
 # eNAM APMC Mandi Scraper · End‑to‑End Pipeline
 
-> Extracts India APMC mandi contact details from the official eNAM portal with an automated, repeatable Selenium pipeline. Cleaned data lands as CSV — perfect for analysis and open-data projects.
+> Extracts India APMC mandi contact details from the official eNAM portal with an automated, repeatable Selenium pipeline. Cleaned data lands as CSV  perfect for analysis and open-data projects.
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
